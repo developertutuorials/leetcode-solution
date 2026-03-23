@@ -1,36 +1,94 @@
-# LeetCode Solutions
+<h1 align="center">🚀 LeetCode Solutions</h1>
 
-This repository contains my solutions to LeetCode problems.
+<p align="center">
+  My journey of solving LeetCode problems and mastering Data Structures & Algorithms
+</p>
 
-## Language
-
-- C++
-
-## Topics Covered
-
-- Arrays
-- Binary Search
-- Strings
-- Recursion
-- Graphs
-- Dynamic Programming
-- Trees
-- Stack and Queue
-
-## Goal
-
-Solve 300+ LeetCode problems and improve problem solving skills.
-
-## Folder Structure
-
-Arrays/
-Binary Search/
-Strings/
-Graphs/
-Dynamic Programming/
-Trees/
-Stack and Queue/
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=LeetCode+Problem+Solving+Journey;Data+Structures+%26+Algorithms;C%2B%2B+Solutions;Improving+Coding+Skills+Everyday" />
+</p>
 
 ---
 
-⭐ If you find this repository useful, consider giving it a star!
+## 🧠 About This Repository
+
+This repository contains my **LeetCode problem solutions**.
+
+I am solving problems daily to improve my:
+
+- Problem Solving Skills
+- Data Structures Knowledge
+- Algorithmic Thinking
+- Coding Interview Preparation
+
+Language Used:
+
+---
+
+## 🏆 Repository Badges
+
+![GitHub repo size](https://img.shields.io/github/repo-size/developertutuorials/leetcode-solution)
+![GitHub stars](https://img.shields.io/github/stars/developertutuorials/leetcode-solution)
+![GitHub forks](https://img.shields.io/github/forks/developertutuorials/leetcode-solution)
+![GitHub issues](https://img.shields.io/github/issues/developertutuorials/leetcode-solution)
+
+---
+
+## 📂 Folder Structure
+
+---
+
+## 🎯 Goals
+
+- Solve **300+ LeetCode Problems**
+- Master **Data Structures & Algorithms**
+- Strengthen **Problem Solving Skills**
+- Prepare for **Software Engineering Interviews**
+
+---
+
+## 📈 Progress Tracker
+
+| Topic | Problems Solved |
+|------|------|
+| Arrays | 0 |
+| Strings | 0 |
+| Binary Search | 0 |
+| Graphs | 0 |
+| Dynamic Programming | 0 |
+| Trees | 0 |
+| Recursion | 0 |
+
+*(Will update regularly)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=developertutuorials&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=developertutuorials&theme=tokyonight"/>
+</p>
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful:
+
+⭐ **Star this repository**
+
+---
+
+## 👨‍💻 Author
+
+GitHub Profile:
+
+https://github.com/developertutuorials
