@@ -51,9 +51,9 @@ Language Used:
 
 | Topic | Problems Solved |
 |------|------|
-| Arrays | 0 |
-| Strings | 0 |
-| Binary Search | 0 |
+| Arrays | 27 |
+| Strings | 15 |
+| Binary Search | 19 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
 | Trees | 0 |
