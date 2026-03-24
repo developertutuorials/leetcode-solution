@@ -32,11 +32,7 @@ Language Used:
 ![GitHub forks](https://img.shields.io/github/forks/developertutuorials/leetcode-solution)
 ![GitHub issues](https://img.shields.io/github/issues/developertutuorials/leetcode-solution)
 
----
 
-## 📂 Folder Structure
-
----
 
 ## 🎯 Goals
 
@@ -60,22 +56,6 @@ Language Used:
 | Recursion | 0 |
 
 *(Will update regularly)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=developertutuorials&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=developertutuorials&theme=tokyonight"/>
-</p>
 
 ---
 
